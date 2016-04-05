@@ -8,3 +8,7 @@
 ###解压 tar xvf ltmp.tar.gz
 ###进入文件夹 cd ltmp
 ###运行安装 sh install.sh
+##注意：
+###服务器搭建流程是搭建服务器环境及配置说明，请阅读后再安装
+
+###如果有疑问欢迎联系zeng-fu-feng@163.com
